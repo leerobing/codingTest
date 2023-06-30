@@ -1,4 +1,4 @@
-package test1_10;
+package boj;
 
 import java.io.*;
 
